@@ -13,4 +13,4 @@ Aqui você encontrará desafios resolvidos com linguagens de programação e fer
 
 - **JavaScript 🌐**  
 - **React⚙️**  
-- **Figma**  
+- **HTML, CSS e Figma🔧**  
