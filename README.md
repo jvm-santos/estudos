@@ -12,5 +12,5 @@ O objetivo deste repositório é **desenvolver habilidades**, **explorar novas s
 Aqui você encontrará desafios resolvidos com linguagens de programação e ferramentas, incluindo:
 
 - **JavaScript 🌐**  
-- **React⚙️**  
+- **React⚙️**
 - **HTML, CSS e Figma🔧**  
