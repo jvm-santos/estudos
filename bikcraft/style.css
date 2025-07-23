@@ -21,12 +21,9 @@ img {
   max-width: 100%;
 }
 
-a {
+a, ul {
   text-decoration: none;
-}
-
-ul {
-  list-style: none;
+    list-style: none;
 }
 
 header, .menu {
